@@ -5,7 +5,7 @@ Usage: python ReconMaster.py
 
 | LANGUAGE  | FILENAME         | MD5 Hash                         |
 |------     |------            | -------                          |
-| python    | WinMaster.py     |                                  |
+| python    | ReconMaster.py   |                                  |
 
 ![Screenshot](picture2.png)
 
