@@ -9,7 +9,8 @@ Usage: python ReconMaster.py
 
 ![Screenshot](picture2.png)
 
-- [x] Currently Building.
+    [+] Programming stage.
+    [-] Testing stage.
 
 A python script file to locally and remotely explore network settings.
 
