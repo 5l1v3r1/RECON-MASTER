@@ -15,7 +15,6 @@ Usage: python ReconMaster.py
 A python script file to locally and remotely explore network settings.
 
 ### CONSOLE DISPLAY
-![Screenshot](picture1.png)
 
 Found this project useful, or would like to see it amended in some way - make a donation.
 https://paypal.me/TerenceBroadbent
